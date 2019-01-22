@@ -1,0 +1,3 @@
+runtime: python27
+env: standard
+threadsafe: true
